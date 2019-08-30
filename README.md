@@ -1,7 +1,10 @@
 # Commitas
 Commitas(コミタス) - 宣言から始めるタスク管理
 
-コミタスウェブサイト: https://stakiran.github.io/commitas/
+![190830_commitas_demo](https://user-images.githubusercontent.com/23325839/64017145-d65b0180-cb63-11e9-808d-6e14c0bfc0e9.gif)
+
+## コミタスを使う
+https://stakiran.github.io/commitas/ よりアクセスしてください。
 
 ## Commitas について
 
@@ -44,7 +47,7 @@ Windows 10 + Firefox 68 にて動作確認を行っています。
 
 ![4](https://user-images.githubusercontent.com/23325839/64016755-c393fd00-cb62-11e9-8bf1-6c5eb243c4c4.PNG)
 
-データが自分について教えてくれます。
+データがあなたについて教えてくれます。自己把握にお役立てください。
 
 ![5](https://user-images.githubusercontent.com/23325839/64016756-c393fd00-cb62-11e9-8f4f-08d3c5dc6c65.PNG)
 
