@@ -279,6 +279,11 @@ class DataManager {
 
         let tasks = [];
         for(let taskString of taskStrings){
+            // Skip invalid empty data especially [''] case.
+            // This case can be occured when getting from the initial empty local storage.
+            if(taskString.length == 0){
+                continue;
+            }
             let task = new Task();
             task.fromString(taskString);
             tasks.push(task);

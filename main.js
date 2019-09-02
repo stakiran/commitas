@@ -1,7 +1,7 @@
 'use strict';
 
 const PRODUCT_NAME = 'Commitas'
-const VERSION      = 'v0.0.1';
+const VERSION      = 'v0.0.2';
 const CAPTION      = PRODUCT_NAME + ' - ' + VERSION;
 const ROOT_KEY     = 'commitas'
 
