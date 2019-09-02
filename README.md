@@ -58,6 +58,9 @@ https://stakiran.github.io/commitas/unittest.html
 
 See also [readme.md](libtest/readme.md)
 
+## Changelog
+https://stakiran.github.io/commitas/changelog.html
+
 ## License
 [MIT license](LICENSE), and in addition to:
 
